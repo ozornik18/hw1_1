@@ -62,7 +62,7 @@ public class Main {
         var difference2 = (weightBoxer2 % weightBoxer1);
         System.out.println(" Разница в весе боксеров составила " + difference2 + " кг");
 
-// задание 8
+//задание 8
         System.out.println("задание 8");
         var totalHours = 640;
         var oneEmployeeHours = 8;
